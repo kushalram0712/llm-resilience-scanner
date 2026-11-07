@@ -1,5 +1,6 @@
 # 🛡️ AI Agent Resilience & Prompt Injection Vulnerability Scanner
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kushalram0712-llm-resilience-scanner-app-bf8oy9.streamlit.app)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-2563EB?logo=python&logoColor=white)
 ![OWASP LLM01 | LLM07](https://img.shields.io/badge/OWASP-LLM01%20%7C%20LLM07-DC2626)
 ![Streamlit Dashboard](https://img.shields.io/badge/UI-Streamlit%20Light%20Theme-16A34A)
