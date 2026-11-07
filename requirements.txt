@@ -1,17 +1,8 @@
-# Core HTTP & Data Validation
-requests~=2.32.3
-pydantic~=2.14.1
-python-dotenv~=1.1.0
-
-# CLI & Terminal Formatting
-rich~=14.0.0
-
-# Web Dashboard & Visualization
-streamlit~=1.44.0
-plotly~=6.0.0
-pandas~=2.2.3
-
-# Testing Suite
-pytest~=9.1.0
-pytest-cov~=6.1.0
-requests-mock~=1.12.1
+requests>=2.32.0
+pydantic>=2.9.0
+python-dotenv>=1.0.1
+rich>=13.7.0
+streamlit>=1.40.0
+pytest>=8.0.0
+pytest-cov>=5.0.0
+requests-mock>=1.12.1
